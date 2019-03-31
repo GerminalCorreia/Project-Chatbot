@@ -1,0 +1,8 @@
+{
+	"FB": {
+		"PAGE_ACCESS_TOKEN": "EAAFq9woAeZBoBAKiRvJ984Mua55dK0eiOx78d1s77LqLDov0arL3pkyf3AOm4el9bYFdVOaAkaSANPZBO7QDHExLxnQ3wZB2lEV2Wuh1DSCQwe0rBfBUpC8SdaeBxDjhKDFLhON5tjVQSkCJLsgBcik4EbWowolcn6oFDiE6F7ZBC9LTBuYY",
+		"VERIFY_TOKEN": "f80f73bb7cc6adfe0b8bbab421d7e9d28e3f1d266d553981",
+		"APP_SECRET": "app_secret"
+	},
+	"TMDB": "tmdb_key"
+}
