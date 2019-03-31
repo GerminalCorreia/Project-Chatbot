@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "10.15.1touch"
+    "node": "11.6.0"
   },
   "dependencies": {
     "express": "^4.16.4",
